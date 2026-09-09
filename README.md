@@ -17,8 +17,7 @@ Frontend
 
 * HTML5
 * CSS3
-* 
-* 
+  
   
 
 Backend & Data
