@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Augusto (@ABblack88)
 
-**Junior Software Developer | Web Development | AI | SQL**  
+**Junior Web Developer | HTML & CSS | JavaScript | SQL | Python | AI**  
 📍 🇵🇪 Peru · 🌍 Open to Remote Opportunities Worldwide
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/) 
@@ -11,24 +11,39 @@ My current focus is building responsive and functional web experiences, while ex
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Technologies
 
-**Currently working with:**
-* HTML & CSS
-* JavaScript (ES6+)
-* React & Next.js
-* AI / Google Antigravity
+Frontend
 
-**Developing:**
-* SQL & Databases (PostgreSQL / Supabase)
+* HTML5
+* CSS3
+* 
+* 
+  
+
+Backend & Data
+
+* SQL
+* Supabase
 * Python
-* Backend Development
-* Full Stack Development
 
-**Tools & Deployments:**
+AI
+
+* AI-assisted development
+* Google Antigravity
+* OpenCode
+
+Tools & Deployment
+
 * Git & GitHub
 * Linux / Terminal
-* Cloudflare Pages / Vercel
+* Cloudflare Pages
+
+Currently learning
+
+* Full Stack Web Development
+* Backend Development
+* Advanced React / Next.js / Tailwind CSS / JavaScript
 
 ---
 
