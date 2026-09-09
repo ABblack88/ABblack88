@@ -37,13 +37,3 @@ My current focus is building responsive and functional web experiences, while ex
 *   **[Centro Eslava (Official Website)](https://github.com/ABblack88/web-centro-eslava):** A professional website developed for a physiotherapy center in Lima, Peru. Built with a focus on performance using Tailwind CSS and deployed on Cloudflare. [🔗 View Live](https://www.centroeslava.pe/)
 *   **[Centro Eslava (Web App)](https://github.com/ABblack88/c_eslava):** Next.js 16 and React 19 application integrated with Supabase (BaaS) for real-time data management.
 *   **[Sistema de Gestión Clínica](https://github.com/ABblack88/gestion_clinica_1):** A Progressive Web App (PWA) interface for clinic management, utilizing Service Workers and Vanilla JavaScript.
-
----
-
-### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABblack88&show_icons=true&theme=transparent&hide_border=true&title_color=333333&text_color=555555&icon_color=007ACC" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABblack88&layout=compact&theme=transparent&hide_border=true&title_color=333333&text_color=555555" alt="Lenguajes más usados" />
-</div>
